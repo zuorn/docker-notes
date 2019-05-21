@@ -1,4 +1,4 @@
-# Docker 学习笔记（二） —— 使用 Dockerfile 定制镜像
+# 使用 Dockerfile 定制镜像
 
 > Dockerfile 是一个文本文件，其内包含了一条条的 指令\(Instruction\)，每一条指令构建一层，因此每一条指令的内容，就是描述该层应当如何构建。
 
